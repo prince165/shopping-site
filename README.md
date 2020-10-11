@@ -1,1 +1,1 @@
-# shopping-site
+# HashnatCET.shopping-site
